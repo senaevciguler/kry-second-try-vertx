@@ -11,6 +11,9 @@ then
 
     ./gradlew clean run 
 
+    For windows
+    gradlew clean run
+
 then we can insert, update, delete and check url with interface
 
     http://localhost:8080/
